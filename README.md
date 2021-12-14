@@ -47,7 +47,7 @@ It recognizes the following syntax commands:
 Authors:
 * Gadi Pessah - Initial work
 * Shahar Hikri - Updates according to requests
-* Omer Ratsabi - Updates according to requests
+* Omer Ratsaby - Updates according to requests
 
 - Info about our updates (in Hebrew) in file: AST_exercise_2021B.doc (it was a task for compilation course).
 
